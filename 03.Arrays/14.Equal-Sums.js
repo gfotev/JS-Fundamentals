@@ -1,7 +1,7 @@
 function equalSums2(array) {
     
     let isFound = false;
-
+    
     for (let a = 0; a < array.length; a += 1) {
         let leftSum = 0;
         let rightSum = 0;

@@ -13,6 +13,5 @@ function solve(array) {
     }
     console.log(Number(array))
 }
-
-//solve([2,10,3])
-//solve([1]);
+solve([2,10,3])
+solve([1]);

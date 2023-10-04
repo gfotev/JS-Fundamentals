@@ -1,5 +1,5 @@
 function maxSequence(array) {
-
+    
     let result = 0;
     let count = 1;
     let firstSequenceCount = 0;

@@ -15,4 +15,5 @@ function solve(array) {
     totalSum = sum1 - sum2;
     console.log(totalSum)
 }
+
 solve([1, 2, 3, 4, 5, 6])

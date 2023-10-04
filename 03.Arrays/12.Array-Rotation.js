@@ -2,7 +2,7 @@ function solve(arr, num) {
 
 
     for (let i = 0; i < num; i++) {
-        
+            
         let firstEl = arr.shift();
         arr.push(firstEl);
     }

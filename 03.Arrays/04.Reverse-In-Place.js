@@ -15,4 +15,5 @@ function solve(array) {
     }
     console.log(array.join(" "));
 }
+
 solve(["a", "b", "c", "d", "e"])
