@@ -4,6 +4,7 @@ function solve(arr1, arr2) {
     let newArray = [];
     
     for (let i = 0; i < arr1.length; i += 1) {
+        
         if (i % 2 == 0) {
             newArray.push(Number(arr1[i]) + Number(arr2[i]));
         } else {

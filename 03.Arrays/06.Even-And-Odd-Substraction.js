@@ -1,4 +1,5 @@
 function solve(array) {
+    
     let sum1 = 0;
     let sum2 = 0;
     let totalSum = 0;

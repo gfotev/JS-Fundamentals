@@ -1,5 +1,7 @@
 function reverse(num, array) {
+    
     let newArray = [];
+    
     for (let i = num - 1; i >= 0; i--) {
         array[i] = newArray.push(array[i]);
     }

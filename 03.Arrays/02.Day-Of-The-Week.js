@@ -1,4 +1,5 @@
 function solve(num) {
+    
     let day = ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday",]
 
     if (num >= 0 && num <= 7) {
